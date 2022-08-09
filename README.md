@@ -1,27 +1,35 @@
-Project: Lemonade App - Starter Code
-==================================
+# Lemonade App
+<h2>Contents</h2>
 
-Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+This is an android app containing concepts of
+1. Different Types of views and inputs in android
+1. taking user input and processing it to produce a result
+1. Material Components
 
-Introduction
-------------
+Tip Time app uses Different user input data like Cost of service, tip percentage, round of? and calculates a tip based on these data
 
-This is the starter code for the Lemonade app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-four) of Android Basics [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
 
-Pre-requisites
---------------
+## Installation
+Clone this repository and import into **Android Studio**
+```bash
+git clone https://github.com/affi1504/lemonade_app.git
+```
 
-- Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of Android Basics in Kotlin
+<h3>Building by downloading .zip and using Android Studio...</h3>
 
-Getting Started
----------------
+1. Dowload the .zip file by clicking *Code* -> Download ZIP
+1. Extract the .zip file
+1. Open Android Studio
+1. select *Open*
+1. Select the **lemonade_app** directory.
+1. Ensure the Project gets build and in case the IDE asks to sync *click* **Sync Now**.
+1. Run the App using a Physical device or Emulator
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
+# Screenshots
+[<img src="screenshots/Screenshot_1.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_1.png)
+[<img src="screenshots/Screenshot_2.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_2.png)
+[<img src="screenshots/Screenshot_3.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_3.png)
 
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
